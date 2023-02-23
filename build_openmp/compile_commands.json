@@ -1,0 +1,122 @@
+[
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/kokkoscore.dir/impl/Kokkos_CPUDiscovery.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_CPUDiscovery.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_CPUDiscovery.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/kokkoscore.dir/impl/Kokkos_Core.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_Core.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_Core.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/kokkoscore.dir/impl/Kokkos_Error.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_Error.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_Error.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/kokkoscore.dir/impl/Kokkos_ExecPolicy.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_ExecPolicy.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_ExecPolicy.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/kokkoscore.dir/impl/Kokkos_HostBarrier.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_HostBarrier.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_HostBarrier.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/kokkoscore.dir/impl/Kokkos_HostSpace.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_HostSpace.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_HostSpace.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/kokkoscore.dir/impl/Kokkos_HostSpace_deepcopy.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_HostSpace_deepcopy.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_HostSpace_deepcopy.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/kokkoscore.dir/impl/Kokkos_HostThreadTeam.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_HostThreadTeam.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_HostThreadTeam.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/kokkoscore.dir/impl/Kokkos_MemoryPool.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_MemoryPool.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_MemoryPool.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/kokkoscore.dir/impl/Kokkos_MemorySpace.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_MemorySpace.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_MemorySpace.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/kokkoscore.dir/impl/Kokkos_NumericTraits.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_NumericTraits.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_NumericTraits.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/kokkoscore.dir/impl/Kokkos_Profiling.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_Profiling.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_Profiling.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/kokkoscore.dir/impl/Kokkos_Serial_Task.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_Serial_Task.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_Serial_Task.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/kokkoscore.dir/impl/Kokkos_SharedAlloc.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_SharedAlloc.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_SharedAlloc.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/kokkoscore.dir/impl/Kokkos_Spinwait.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_Spinwait.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_Spinwait.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/kokkoscore.dir/impl/Kokkos_Stacktrace.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_Stacktrace.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_Stacktrace.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/kokkoscore.dir/impl/Kokkos_hwloc.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_hwloc.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/impl/Kokkos_hwloc.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/kokkoscore.dir/OpenMP/Kokkos_OpenMP_Exec.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/OpenMP/Kokkos_OpenMP_Exec.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/OpenMP/Kokkos_OpenMP_Exec.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/kokkoscore.dir/OpenMP/Kokkos_OpenMP_Task.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/OpenMP/Kokkos_OpenMP_Task.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/OpenMP/Kokkos_OpenMP_Task.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/kokkoscore.dir/desul/src/Lock_Array_CUDA.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/desul/src/Lock_Array_CUDA.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/desul/src/Lock_Array_CUDA.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/kokkoscore.dir/desul/src/Lock_Array_HIP.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/desul/src/Lock_Array_HIP.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src/desul/src/Lock_Array_HIP.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/containers/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/containers/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/containers/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/kokkoscontainers.dir/impl/Kokkos_UnorderedMap_impl.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/containers/src/impl/Kokkos_UnorderedMap_impl.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/containers/src/impl/Kokkos_UnorderedMap_impl.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/containers/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/containers/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/algorithms/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/algorithms/src -isystem /usr/local/include -isystem /usr/local/Cellar/hwloc/2.7.1/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/acoustic_kokkos.openmp.dir/acoustic_kokkos.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/src/acoustic_kokkos.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/src/acoustic_kokkos.cpp"
+},
+{
+  "directory": "/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/src",
+  "command": "/usr/local/bin/g++-10 -DKOKKOS_DEPENDENCE -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/core/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/containers/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/containers/src -I/Users/mengxiang/Desktop/acoustic_kokkos/build_openmp/external/kokkos/algorithms/src -I/Users/mengxiang/Desktop/acoustic_kokkos/external/kokkos/algorithms/src -isystem /usr/local/include -isystem /usr/local/Cellar/hwloc/2.7.1/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -DUSE_DOUBLE -DDEBUG -fopenmp -std=c++17 -o CMakeFiles/acoustic_kokkos.openmp.dir/OpenMPTimer.cpp.o -c /Users/mengxiang/Desktop/acoustic_kokkos/src/OpenMPTimer.cpp",
+  "file": "/Users/mengxiang/Desktop/acoustic_kokkos/src/OpenMPTimer.cpp"
+}
+]

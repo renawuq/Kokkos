@@ -1,0 +1,104 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"KOKKOS_INTERNAL_ADD_LIBRARY_INSTALL",
+			"KOKKOS_INTERNAL_ADD_LIBRARY",
+			"KOKKOS_ADD_LIBRARY"
+		],
+		"files" : 
+		[
+			"external/kokkos/core/src/CMakeLists.txt",
+			"external/kokkos/cmake/kokkos_tribits.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 79,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 512,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 476,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 101,
+				"parent" : 4
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 110,
+				"parent" : 4
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include/kokkos",
+			"paths" : 
+			[
+				{
+					"from" : "external/kokkos/core/src",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "KokkosCore",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"external/kokkos/core/src/libkokkoscore.a"
+			],
+			"targetId" : "kokkoscore::@5379ca325d1107c55d26",
+			"targetIndex" : 30,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"external/kokkos/core/src/libkokkoscore.a"
+			],
+			"targetId" : "kokkoscore::@5379ca325d1107c55d26",
+			"targetIndex" : 30,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "external/kokkos/core/src",
+		"source" : "external/kokkos/core/src"
+	}
+}
